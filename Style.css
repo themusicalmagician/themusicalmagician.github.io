@@ -134,6 +134,7 @@ body
 {
     background-image: url('./Assets/english.png');
     background-size: cover;
+    background-position: center;
     width: 200px;
     height: 110px;
 }
@@ -142,6 +143,7 @@ body
 {
     background-image: url('./Assets/nederlands.png');
     background-size: cover;
+    background-position: center;
     width: 200px;
     height: 110px;
 }
