@@ -9,7 +9,7 @@
 {
     padding: 0;
     margin: 0;
-    border: 3px solid #000000;
+    border: 3px solid #5c27c4;
     background-image: url('Assets/Container-1-background.png');
     color: #8c52ff;  
     width: 100%;
@@ -31,7 +31,7 @@ nav
 {
     width: 300px;
     height: 100px;
-    border: 3px solid #000000;
+    border: 3px solid #5c27c4;
 }
 
 .button1 
