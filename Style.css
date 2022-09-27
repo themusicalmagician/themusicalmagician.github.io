@@ -45,8 +45,8 @@
     background-image: url('Assets/Button\ 1.png');
     background-size: cover;
     background-position: center;
-    width: 200px;
-    height: 110px;
+    width: 100px;
+    height: 55px;
     float: right;
 }
 
@@ -55,8 +55,8 @@
     background-image: url('Assets/Button\ 2.png');
     background-size: cover;
     background-position: center;
-    width: 200px;
-    height: 110px;
+    width: 100px;
+    height: 55px;
     float: right;
 }
 
@@ -65,8 +65,8 @@
     background-image: url('Assets/Button\ 3.png');
     background-size: cover;
     background-position: center;
-    width: 200px;
-    height: 110px;
+    width: 100px;
+    height: 55px;
     float: right;
 }
 
@@ -75,8 +75,8 @@
     background-image: url('Assets/Button\ 4.png');
     background-size: cover;
     background-position: center;
-    width: 200px;
-    height: 110px;
+    width: 100px;
+    height: 55px;
     float: right;
 }
 
