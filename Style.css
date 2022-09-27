@@ -4,12 +4,6 @@
     min-width: 1000px;
     height: auto;
 }
-.articles
-{
-    width:90%; /*Takes 90% width from WebContainer*/
-    height: auto;
-    margin: auto;
-}
 
 .container 
 {
@@ -156,6 +150,14 @@ nav
     height: 55px;
 }
 
-
+@media only screen and (max-width: 600px)
+{
+    .menu_image 
+    {
+        width: 100%;
+        height: auto;
+        border: 3px solid #000000;
+    }
+}
 
 
