@@ -169,6 +169,114 @@ nav
         height: auto;
         border: 3px solid #000000;
     }
+
+    .button1 
+    {
+        background-image: url('Assets/Button\ 1.png');
+        background-size: cover;
+        background-position: center;
+        width: 20%;
+        height: 55px;
+    }
+
+    .button2 
+    {
+        background-image: url('Assets/Button\ 2.png');
+        background-size: cover;
+        background-position: center;
+        width: 20%;
+        height: 55px;
+    }
+
+    .button3 
+    {
+        background-image: url('Assets/Button\ 3.png');
+        background-size: cover;
+        background-position: center;
+        width: 20%;
+        height: 55px;
+    }
+
+    .button4 
+    {
+        background-image: url('Assets/Button\ 4.png');
+        background-size: cover;
+        background-position: center;
+        width: 20%;
+        height: 55px;
+    }
+
+    .button5
+    {
+        background-image: url('Assets/learnmore.png');
+        background-size: cover;
+        background-position: center;
+        width: 20%;
+        height: 55px;
+    }
+
+    .button1NL 
+    {
+        background-image: url('./Assets/knop1.png');
+        background-size: cover;
+        background-position: center;
+        width: 20%;
+        height: 55px;
+    }
+
+    .button2NL
+    {
+        background-image: url('./Assets/Button\ 2.png');
+        background-size: cover;
+        background-position: center;
+        width: 20%;
+        height: 55px;
+    }
+
+    .button3NL
+    {
+        background-image: url('./Assets/knop3.png');
+        background-size: cover;
+        background-position: center;
+        width: 20%;
+        height: 55px;
+    }
+
+    .button4NL
+    {
+        background-image: url('./Assets/knop4.png');
+        background-size: cover;
+        background-position: center;
+        width: 20%;
+        height: 55px;
+    }
+
+    .button5NL
+    {
+        background-image: url('./Assets/knop5.png');
+        background-size: cover;
+        background-position: center;
+        width: 20%;
+        height: 55px;
+    }
+
+    .buttonEN
+    {
+        background-image: url('./Assets/english.png');
+        background-size: cover;
+        background-position: center;
+        width: 20%;
+        height: 55px;
+    }
+
+    .buttonNL
+    {
+        background-image: url('./Assets/nederlands.png');
+        background-size: cover;
+        background-position: center;
+        width: 20%;
+        height: 55px;
+    }
 }
 
 
