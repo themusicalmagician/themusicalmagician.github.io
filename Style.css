@@ -85,8 +85,8 @@
     background-image: url('Assets/learnmore.png');
     background-size: cover;
     background-position: center;
-    width: 200px;
-    height: 110px;
+    width: 100px;
+    height: 55px;
 }
 
 .button1NL 
@@ -94,8 +94,8 @@
     background-image: url('./Assets/knop1.png');
     background-size: cover;
     background-position: center;
-    width: 200px;
-    height: 110px;
+    width: 100px;
+    height: 55px;
     float: right;
 }
 
@@ -104,8 +104,8 @@
     background-image: url('./Assets/Button\ 2.png');
     background-size: cover;
     background-position: center;
-    width: 200px;
-    height: 110px;
+    width: 100px;
+    height: 55px;
     float: right;
 }
 
@@ -114,8 +114,8 @@
     background-image: url('./Assets/knop3.png');
     background-size: cover;
     background-position: center;
-    width: 200px;
-    height: 110px;
+    width: 100px;
+    height: 55px;
     float: right;
 }
 
@@ -124,8 +124,8 @@
     background-image: url('./Assets/knop4.png');
     background-size: cover;
     background-position: center;
-    width: 200px;
-    height: 110px;
+    width: 100px;
+    height: 55px;
     float: right;
 }
 
@@ -134,8 +134,8 @@
     background-image: url('./Assets/knop5.png');
     background-size: cover;
     background-position: center;
-    width: 200px;
-    height: 110px;
+    width: 100px;
+    height: 55px;
 }
 
 .buttonEN
@@ -143,8 +143,8 @@
     background-image: url('./Assets/english.png');
     background-size: cover;
     background-position: center;
-    width: 200px;
-    height: 110px;
+    width: 100px;
+    height: 55px;
 }
 
 .buttonNL
@@ -152,8 +152,8 @@
     background-image: url('./Assets/nederlands.png');
     background-size: cover;
     background-position: center;
-    width: 200px;
-    height: 110px;
+    width: 100px;
+    height: 55px;
 }
 
 
