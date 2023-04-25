@@ -36,7 +36,7 @@ nav
 
 .button1 
 {
-    background-image: url('Assets/Button\ 1.png');
+    background-image: url('Assets/Button 1.png');
     background-size: cover;
     background-position: center;
     width: 100px;
@@ -46,7 +46,7 @@ nav
 
 .button2 
 {
-    background-image: url('Assets/Button\ 2.png');
+    background-image: url('Assets/Button 2.png');
     background-size: cover;
     background-position: center;
     width: 100px;
@@ -56,7 +56,7 @@ nav
 
 .button3 
 {
-    background-image: url('Assets/Button\ 3.png');
+    background-image: url('Assets/Button 3.png');
     background-size: cover;
     background-position: center;
     width: 100px;
@@ -66,7 +66,7 @@ nav
 
 .button4 
 {
-    background-image: url('Assets/Button\ 4.png');
+    background-image: url('Assets/Button 4.png');
     background-size: cover;
     background-position: center;
     width: 100px;
@@ -95,7 +95,7 @@ nav
 
 .button2NL
 {
-    background-image: url('./Assets/Button\ 2.png');
+    background-image: url('./Assets/Button 2.png');
     background-size: cover;
     background-position: center;
     width: 100px;
@@ -152,7 +152,7 @@ nav
 
 .backButton
 {
-    background-image: url('./Assets/Back\ Button.png');
+    background-image: url('./Assets/Back Button.png');
     background-size: cover;
     background-position: center;
     width: 100px;
@@ -163,7 +163,7 @@ nav
 
 .backButtonNL
 {
-    background-image: url('./Assets/terug\ knop.png');
+    background-image: url('./Assets/terug knop.png');
     background-size: cover;
     background-position: center;
     width: 100px;
@@ -177,7 +177,7 @@ nav
     .container-fluid 
     {
         padding: 0;
-        margin: 0;
+        text-align: center;
         border: 3px solid #5c27c4;
         background-image: url('Assets/Container-1-background.png');
         background-position: center;
@@ -196,7 +196,7 @@ nav
 
     .button1 
     {
-        background-image: url('Assets/Button\ 1.png');
+        background-image: url('Assets/Button 1.png');
         background-size: cover;
         background-position: center;
         width: 20%;
@@ -205,7 +205,7 @@ nav
 
     .button2 
     {
-        background-image: url('Assets/Button\ 2.png');
+        background-image: url('Assets/Button 2.png');
         background-size: cover;
         background-position: center;
         width: 20%;
@@ -214,7 +214,7 @@ nav
 
     .button3 
     {
-        background-image: url('Assets/Button\ 3.png');
+        background-image: url('Assets/Button 3.png');
         background-size: cover;
         background-position: center;
         width: 20%;
@@ -223,7 +223,7 @@ nav
 
     .button4 
     {
-        background-image: url('Assets/Button\ 4.png');
+        background-image: url('Assets/Button 4.png');
         background-size: cover;
         background-position: center;
         width: 20%;
@@ -250,7 +250,7 @@ nav
 
     .button2NL
     {
-        background-image: url('./Assets/Button\ 2.png');
+        background-image: url('./Assets/Button 2.png');
         background-size: cover;
         background-position: center;
         width: 20%;
@@ -304,10 +304,10 @@ nav
 
     .backButton
     {
-        background-image: url('./Assets/Back\ Button.png');
+        background-image: url('./Assets/Back Button.png');
         background-size: cover;
         background-position: center;
-        width: 20%px;
+        width: 20px;
         height: 45px;
         position:relative;
         bottom: 0;
